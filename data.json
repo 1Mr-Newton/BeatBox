@@ -1,0 +1,53 @@
+{
+    "file_details": [
+        {
+            "path": "E:\\music\\21.mp3",
+            "liked": false,
+            "length": "02:33",
+            "num": 25,
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\1.mp3",
+            "liked": false,
+            "length": "02:33",
+            "num": 26,
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\2baba_Idibia_African_Queen (2).mp3",
+            "liked": false,
+            "length": "04:21",
+            "num": 27,
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\Criss-Waddle-x-Medikal-Bank-Of-Ghana-Prod-By-UnKle-Beat - Copy - Copy.mp3",
+            "liked": false,
+            "length": "02:32",
+            "num": 28,
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\2baba_Idibia_African_Queen (2).mp3",
+            "liked": false,
+            "length": "04:21",
+            "num": "02",
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\Akon-Dont-Matter-Nobody-Wants-To-See-Us-2geda-via-Naijafinix.com_.mp3",
+            "liked": false,
+            "length": "04:35",
+            "num": "03",
+            "nol": 0
+        },
+        {
+            "path": "E:\\music\\21.mp3",
+            "liked": false,
+            "length": "02:33",
+            "num": "04",
+            "nol": 0
+        }
+    ]
+}
